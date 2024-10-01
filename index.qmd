@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+Hello, nice to see you on my 1st ever website made by using R.
+
+Here are a few things about me.
+
+I am a student studying Data analytics engineering. This is my 1st semester at George Mason.
+
